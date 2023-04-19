@@ -1,6 +1,6 @@
-# my-docsify-template
+# docsify-blog-sample
 
-docsifyを使うためにいろんなプラグインを入れたテンプレ
+docsifyで作るブログの一例
 
 ## ローカルでの立ち上げ方法
 
