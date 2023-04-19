@@ -1,17 +1,13 @@
 - [Home](/)
 
-- hoge
+- Diary
 
-  - [gomi](hoge/gomi.md)
-  - [gomi2](hoge/gomi2.md)
-  - [gomi3](hoge/gomi3.md)
+  - 2023
+    - 04
+      - [19](diary/2023/04/19.md)
+      - [20](diary/2023/04/20.md)
 
-  - hogehoge
-    - [gomigomi](hogehoge/gomigomi.md)
+- Tech
 
-- fuga
-
-  - [mermaid](fuga/mermaid.md)
-  - [latex](fuga/latex.md)
-  - [runkit](fuga/runkit.md)
-  - [copy-code](fuga/copy-code.md)
+  - [GoでHelloWorldしてみた！](tech/go-helloworld.md)
+  - [JavaScriptでHelloWorldしてみた！](tech/js-helloworld.md)
